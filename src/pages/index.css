@@ -457,11 +457,10 @@ body {
 
 .no-event {
   width: 100%;
-  max-width:400px:
+  max-width: 300px;
   height: auto;
   object-fit: contain;
 }
-
 
 .Events-conatiner {
   min-height: 80vh;
